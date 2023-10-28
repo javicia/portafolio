@@ -12,7 +12,7 @@ _Herramientas que utilizadas para crear el proyecto_
 
 ## Contratación 🖇️
 
-Si quieres contratarme puedes escribirme en javigpdeveloper@gmial.com para consultas.
+Si quieres contratarme puedes escribirme en javigpdeveloper@gmail.com para consultas.
 
 
 ## Autores ✒️
