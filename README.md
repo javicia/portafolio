@@ -11,8 +11,7 @@ _Herramientas que utilizadas para crear el proyecto_
 * [JAVASCRIPT](https://lenguajejs.com/javascript/) - Usado para generar RSS
 
 ## Ver ejemple en vivo 
-_Herramientas que utilizadas para crear el proyecto_
--[https://javicia.github.io/portafolio/] (https://javicia.github.io/portafolio/)
+* [https://javicia.github.io/portafolio/] 
 
 ## Contratación 🖇️
 
