@@ -12,7 +12,7 @@ _Herramientas que utilizadas para crear el proyecto_
 
 ## Ver ejemple en vivo 
 _Herramientas que utilizadas para crear el proyecto_
-https://lenguajehtml.com/)](https://javicia.github.io/portafolio/)
+-[https://javicia.github.io/portafolio/] (https://javicia.github.io/portafolio/)
 
 ## Contratación 🖇️
 
