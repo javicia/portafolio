@@ -10,6 +10,10 @@ _Herramientas que utilizadas para crear el proyecto_
 * [CSS](https://lenguajecss.com/css/) - Manejador de dependencias
 * [JAVASCRIPT](https://lenguajejs.com/javascript/) - Usado para generar RSS
 
+## Ver ejemple en vivo 
+_Herramientas que utilizadas para crear el proyecto_
+https://lenguajehtml.com/)](https://javicia.github.io/portafolio/)
+
 ## Contratación 🖇️
 
 Si quieres contratarme puedes escribirme en javigpdeveloper@gmail.com para consultas.
