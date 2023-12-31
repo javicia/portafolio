@@ -26,8 +26,7 @@ function efectoHabilidades() {
     if (distancia_skills >= 300) {
         const habilidades = document.querySelectorAll(".progreso");
         const habilidadesNombres = [
-            "java", "spring", "mysql", "oracle", "postgresql", "sqlite",
-            "firebase", "androidstudio", "html", "css", "javascript",
+            "kotlin","java", "androidstudio","jectpackcompose","sqlite", "firebase", "spring", "mysql", "oracle", "html", "css", "javascript",
             "boostrap", "angular", "git", "comunicacion", "trabajo", 
             "creatividad", "dedicacion", "adaptabilidad", "pensamiento", 
             "organizacion", "problemas", "resilencia"

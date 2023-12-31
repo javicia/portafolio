@@ -269,6 +269,14 @@ html{
     font-size: 14px;
 }
 /* Estas clases se agregaran dinamicamente mediante javascript */
+.skills .skill .kotlin{
+    width: 0%;
+    animation: 2s kotlin forwards;
+}
+@keyframes kotlin {
+    0%{width: 0%;}
+    100%{width: 50%;}
+}
 .skills .skill .java{
     width: 0%;
     animation: 2s java forwards;
@@ -276,6 +284,39 @@ html{
 @keyframes java {
     0%{width: 0%;}
     100%{width: 60%;}
+}
+
+.skills .skill .androidstudio{
+    width: 0%;
+    animation: 2s androidstudio forwards;
+}
+@keyframes androidstudio {
+    0%{width: 0%;}
+    100%{width: 65%;}
+}
+.skills .skill .jectpackcompose{
+    width: 0%;
+    animation: 2s jectpackcompose forwards;
+}
+@keyframes jectpackcompose {
+    0%{width: 0%;}
+    100%{width: 25%;}
+}
+.skills .skill .sqlite{
+    width: 0%;
+    animation: 2s sqlite forwards;
+}
+@keyframes sqlite {
+    0%{width: 0%;}
+    100%{width: 50%;}
+}
+.skills .skill .firebase{
+    width: 0%;
+    animation: 2s firebase forwards;
+}
+@keyframes firebase {
+    0%{width: 0%;}
+    100%{width: 35%;}
 }
 .skills .skill .spring{
     width: 0%;
@@ -300,38 +341,6 @@ html{
 @keyframes oracle {
     0%{width: 0%;}
     100%{width: 40%;}
-}
-.skills .skill .postgresql{
-    width: 0%;
-    animation: 2s postgresql forwards;
-}
-@keyframes postgresql {
-    0%{width: 0%;}
-    100%{width: 40%;}
-}
-.skills .skill .sqlite{
-    width: 0%;
-    animation: 2s sqlite forwards;
-}
-@keyframes sqlite {
-    0%{width: 0%;}
-    100%{width: 50%;}
-}
-.skills .skill .firebase{
-    width: 0%;
-    animation: 2s firebase forwards;
-}
-@keyframes firebase {
-    0%{width: 0%;}
-    100%{width: 45%;}
-}
-.skills .skill .androidstudio{
-    width: 0%;
-    animation: 2s androidstudio forwards;
-}
-@keyframes androidstudio {
-    0%{width: 0%;}
-    100%{width: 55%;}
 }
 .skills .skill .html{
     width: 0%;
