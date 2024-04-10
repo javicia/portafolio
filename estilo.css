@@ -300,7 +300,7 @@ html{
 }
 @keyframes jectpackcompose {
     0%{width: 0%;}
-    100%{width: 25%;}
+    100%{width: 40%;}
 }
 .skills .skill .sqlite{
     width: 0%;
@@ -316,7 +316,7 @@ html{
 }
 @keyframes firebase {
     0%{width: 0%;}
-    100%{width: 35%;}
+    100%{width: 60%;}
 }
 .skills .skill .spring{
     width: 0%;
@@ -324,7 +324,7 @@ html{
 }
 @keyframes spring {
     0%{width: 0%;}
-    100%{width: 50%;}
+    100%{width: 60%;}
 }
 .skills .skill .mysql{
     width: 0%;
@@ -357,7 +357,7 @@ html{
 }
 @keyframes css {
     0%{width: 0%;}
-    100%{width: 35%;}
+    100%{width: 40%;}
 }
 
 .skills .skill .javascript{
@@ -391,7 +391,7 @@ html{
 }
 @keyframes git {
     0%{width: 0%;}
-    100%{width: 50%;}
+    100%{width: 70%;}
 }
 .skills .skill .comunicacion{
     width: 0%;
